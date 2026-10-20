@@ -1,0 +1,2 @@
+# premium-teapot-throw-001-teapot-throwing-assembly-plann
+Tired of mismatched spouts and handles that never quite fit your teapot body? The Teapot Throwing Assembly Planner is your digital companion to track every piece from wheel to final assembly.  This Notion template solves the chaos of juggling multiple teapot components by giving you a dedicated system to log measurements, drying stages, and assembl
